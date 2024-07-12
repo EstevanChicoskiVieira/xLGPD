@@ -1,0 +1,10 @@
+{
+    "cookies": "<h1>Gerenciamento de Cookies</h1> <p>Já imaginou ter um biscoito mágico que te ajuda a navegar na internet? Pois é, os cookies do site são quase isso! São pedacinhos de informação que os sites guardam no seu computador ou celular para lembrar suas preferências e te oferecer uma experiência mais legal, além de melhorar sua segurança ao navegar em nosso site..</p> <div class='inputs'><label id='input'><p>Marketing</p><input type='radio' name='value' id='mkt' value='mkt'></label><label id='input'><p>Essencial</p><input type='radio' name='value' id='ess' value='ess'></label><label id='input'><p>Desativado</p><input type='radio' name='value' id='des' value='des' checked></label></div>",
+    "titulares": "<p>Esse parágrafo foi carregado do JSON! 2</p>",
+    "politica": "<p>Esse parágrafo foi carregado do JSON! 3</p>",
+
+    "TiposDeCookies": {
+        "essencial": "Apenas os cookies essenciais para melhorar a sua experiência com nosso site e aprimorar a sua segurança.",
+        "marketing": "Permite a coleta de seus dados para que eles sejam usados para adequar a sua experiência, exibindo um conteúdo personalziado de acordo com suas preferências pessoais."
+    }
+}
